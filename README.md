@@ -4,7 +4,7 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 📚 What I'm Working On:
 
-Tower United: A community management project using social research methods to analyze participant sentiment, player habits, and spending patterns. Leverages interview recordings, Google Forms, and web content to gather actionable insights.
+Tower United: A community management project using social research methods to analyze player sentiment, player habits, and spending patterns. Leverages interview recordings, Google Forms, and web content to gather actionable insights.
 
 Cause for Applause: A political science-driven project modeling applause timing and sentiments. Includes statistical analysis of pauses and anticipation, sentiment probability timelines, and end-to-end Python automation workflows.
 
