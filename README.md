@@ -1,5 +1,5 @@
 # 📓 Computational Social Scientist & Python Developer
-
+<p style="font-size: 18px;">This text is medium-sized.</p>
 Specializing in automation workflows, data analysis, data science, and visualization, I blend technical skills with human-centric insights and design. My background spans computational social science, market research, consumer insights reporting, and automation in data management and distribution.
 
 # 📚 What I'm Working On:
