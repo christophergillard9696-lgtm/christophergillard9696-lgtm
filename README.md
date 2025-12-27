@@ -1,16 +1,17 @@
-## Hi there 👋
+##📓 Data-Driven Computational Social Scientist & Python Developer
 
-<!--
-**christophergillard9696-lgtm/christophergillard9696-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specializing in automation workflows, data analysis, data science, and visualization, I blend technical skills with human-centric insights and design. My background spans computational social science, market research, consumer insights reporting, and automation in data management and distribution.
 
-Here are some ideas to get you started:
+📚 What I'm Working On:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The Tower United Report: A community management project using social research methods to analyze participant sentiment, player habits, and spending patterns. Leverages interview recordings, Google Forms, and web content to gather actionable insights.
+
+Cause for Applause: A political science-driven project modeling applause timing and sentiments. Includes statistical analysis of pauses and anticipation, sentiment probability timelines, and end-to-end Python automation workflows.
+
+Futures Report: A modular, data-driven buisiness intelligence analysis of AI markets, exploring sector longevity, public/private outlooks, cultural behaviors, economies, and intersections with established industries.
+
+Automation Data Management & Exportation Workflows: Enhancing Python, SQL, and Power BI skills in cloud environments (AWS & Azure) for scalable data pipelines.
+
+⚙️ Tools I Utilise:
+
+I build Python tools for web scraping, API integration, and personal documentation automation, using libraries like VADER, Pandas, R, BeautifulSoup, NLTK, PyAudio, and SQLAlchemy. I host custom pipelines on AWS/Azure, delivering end products like written reports and Power BI dashboards with DAX, relational modeling, and conditional formatting as appropriate. Focuses being: Accessibility, scalability, and economic affluency.
