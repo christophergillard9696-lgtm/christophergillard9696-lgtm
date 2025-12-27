@@ -4,9 +4,9 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 📚 What I'm Working On:
 
-Tower United: A community management project using social research methods to analyze player sentiment, player habits, and spending patterns. Leverages interview recordings, Google Forms, and web content to gather actionable insights.
+[Tower United:](https://github.com/christophergillard9696-lgtm/Tower-United) A community management project using social research methods to analyze player sentiment, player habits, and spending patterns. Leverages interview recordings, Google Forms, and web content to gather actionable insights.
 
-Cause for Applause: A political science-driven project modeling applause timing and sentiments. Includes statistical analysis of pauses and anticipation, sentiment probability timelines, and end-to-end Python automation workflows.
+[Cause for Applause:](https://github.com/christophergillard9696-lgtm/Cause-For-Applause) A political science-driven project modeling applause timing and sentiments. Includes statistical analysis of pauses and anticipation, sentiment probability timelines, and end-to-end Python automation workflows.
 
 Futures Report: A modular, data-driven buisiness intelligence analysis of AI markets, exploring sector longevity, public/private outlooks, cultural behaviors, economies, and intersections with established industries.
 
