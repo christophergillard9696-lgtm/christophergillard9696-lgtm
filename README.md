@@ -1,17 +1,17 @@
 # 📓 Computational Social Scientist & Python Developer
-<p style="font-size: 18px;">This text is medium-sized.</p>
-Specializing in automation workflows, data analysis, data science, and visualization, I blend technical skills with human-centric insights and design. My background spans computational social science, market research, consumer insights reporting, and automation in data management and distribution.
+<p style="font-size: 36px;"> Specializing in automation workflows, data analysis, data science, and visualization, I blend technical skills with human-centric insights and design. My background spans computational social science, market research, consumer insights reporting, and automation in data management and distribution. </p>
+
 
 # 📚 What I'm Working On:
 
-[Tower United:](https://github.com/christophergillard9696-lgtm/Tower-United) A community management project using social research methods to analyze player sentiment, player habits, and spending patterns. Leverages interview recordings, Google Forms, and web content to gather actionable insights.
+<p style="font-size: 36px;"> [Tower United:](https://github.com/christophergillard9696-lgtm/Tower-United) A community management project using social research methods to analyze player sentiment, player habits, and spending patterns. Leverages interview recordings, Google Forms, and web content to gather actionable insights.
 
 [Cause for Applause:](https://github.com/christophergillard9696-lgtm/Cause-For-Applause) A political science-driven project modeling applause timing and sentiments. Includes statistical analysis of pauses and anticipation, sentiment probability timelines, and end-to-end Python automation workflows.
 
 Futures Report: A modular, data-driven buisiness intelligence analysis of AI markets, exploring sector longevity, public/private outlooks, cultural behaviors, economies, and intersections with established industries.
 
-Automation Data Management & Exportation Workflows: Enhancing Python, SQL, and Power BI skills in cloud environments (AWS & Azure) for scalable data pipelines.
+Automation Data Management & Exportation Workflows: Enhancing Python, SQL, and Power BI skills in cloud environments (AWS & Azure) for scalable data pipelines. </p>
 
 # ⚙️ Tools I use:
 
-I build Python tools for web scraping, API integration, and personal documentation automation, using libraries like VADER, Pandas, R, BeautifulSoup, NLTK, PyAudio, and SQLAlchemy. I host custom pipelines on AWS/Azure, delivering end products like written reports and Power BI dashboards with DAX, relational modeling, and conditional formatting as appropriate. Focuses being: Accessibility, scalability, and economic affluency.
+<p style="font-size: 36px;"> I build Python tools for web scraping, API integration, and personal documentation automation, using libraries like VADER, Pandas, R, BeautifulSoup, NLTK, PyAudio, and SQLAlchemy. I host custom pipelines on AWS/Azure, delivering end products like written reports and Power BI dashboards with DAX, relational modeling, and conditional formatting as appropriate. Focuses being: Accessibility, scalability, and economic affluency. </p>
