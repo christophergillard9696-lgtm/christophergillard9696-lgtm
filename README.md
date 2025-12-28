@@ -14,5 +14,4 @@ Automation Data Management & Exportation Workflows: Enhancing Python, SQL, and P
 
 
 # ⚙️ Tools I use:
-
 I build Python tools for web scraping, API integration, and personal documentation automation, using libraries like VADER, Pandas, R, BeautifulSoup, NLTK, PyAudio, and SQLAlchemy. I host custom pipelines on AWS/Azure, delivering end products like written reports and Power BI dashboards with DAX, relational modeling, and conditional formatting as appropriate. Focuses being: Accessibility, scalability, and economic affluency. 
