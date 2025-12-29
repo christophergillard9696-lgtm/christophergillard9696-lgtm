@@ -13,5 +13,5 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 [Automation Data Management & Exportation Workflows:](https://github.com/christophergillard9696-lgtm/Automation-Designs) Enhancing Python, SQL, and Power BI skills in cloud environments (AWS & Azure) for scalable automated data gathering and standardization pipelines.
 
 
-# 🗜️ Tools I use:
+# ⚙️ Tools I use:
 I build Python tools for web scraping, API integration, and personal documentation automation, using libraries like VADER, Pandas, R, BeautifulSoup, NLTK, PyAudio, and SQLAlchemy. I host custom pipelines on AWS/Azure, delivering end products like written reports and Power BI dashboards with DAX, relational modeling, and conditional formatting as appropriate. I have a degree in Anthropology which informs a lot of my research methodology. Ultimately my focuses are: Accessibility, Scalability, and Economic affluency. 
