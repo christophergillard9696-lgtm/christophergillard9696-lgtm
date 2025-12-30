@@ -10,7 +10,7 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 (W.I.P) [Ai Futures Report:](https://github.com/christophergillard9696-lgtm/Ai-Futures) A buisiness intelligence project looking into the nature for the majority uses of AI and their accompanying markets, exploring sector longevity, public/private sentiment outlook, cultural behaviors, economies, and intersections with established industries.
 
-[Automation Data Management & Exportation Workflows:](https://github.com/christophergillard9696-lgtm/Automation-Designs) A short written piece and flow chart on enhancing Python, SQL, and Power BI skills in cloud environments (Airflow, AWS & Azure) for scalable automated data gathering and ETL standardization pipelines.
+[Automation Data Management & Exportation Workflows:](https://github.com/christophergillard9696-lgtm/Automation-Designs) A short written piece and flow chart on enhancing Python, SQL, and Power BI skills in cloud environments (Airflow, AWS & Azure) for scalable automated data gathering and conditional ETL pipelines.
 
 
 # ⚙️ Tools I use:
