@@ -10,8 +10,8 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 [Ai Futures Report:](https://github.com/christophergillard9696-lgtm/Ai-Futures) A data-driven buisiness intelligence analysis of AI markets, exploring sector longevity, public/private sentiment outlooks, cultural behaviors, economies, and intersections with established industries.
 
-[Automation Data Management & Exportation Workflows:](https://github.com/christophergillard9696-lgtm/Automation-Designs) Enhancing Python, SQL, and Power BI skills in cloud environments (AWS & Azure) for scalable automated data gathering and standardization pipelines.
+[Automation Data Management & Exportation Workflows:](https://github.com/christophergillard9696-lgtm/Automation-Designs) Enhancing Python, SQL, and Power BI skills in cloud environments (Airflow, AWS & Azure) for scalable automated data gathering and standardization pipelines.
 
 
 # ⚙️ Tools I use:
-I build Python tools for web scraping, API integration, and personal documentation automation, using libraries like VADER, Pandas, R, BeautifulSoup, NLTK, PyAudio, and SQLAlchemy. I host custom pipelines on AWS/Azure, delivering end products like written reports and Power BI dashboards with deep DAX applications, relational modeling, and conditional formatting as appropriate, data modeling inferred. I have a degree in Anthropology which informs a lot of my research methodology.      Ultimately my focuses are: Accessibility, Scalability, and Economic Affluency. 
+I build Python tools for web scraping, API integration, and personal documentation automation, using libraries like VADER, Pandas, R, BeautifulSoup, NLTK, PyAudio, and SQLAlchemy. I host custom pipelines on Airflow/AWS/Azure, delivering end products like written reports and Power BI dashboards with deep DAX applications, relational modeling, and conditional formatting as appropriate, data modeling inferred. I have a degree in Anthropology which informs a lot of my research methodology.      Ultimately my focuses are: Accessibility, Scalability, and Economic Affluency. 
