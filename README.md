@@ -8,7 +8,7 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 [Cause for Applause:](https://github.com/christophergillard9696-lgtm/Cause-For-Applause) A political science driven project mapping applause timing and sentiment. Includes statistical analysis of pauses and anticipation, sentiment probability timelines, and end-to-end ML Python deep Ai workflows.
 
-(W.I.P) [Ai Futures Report:](https://github.com/christophergillard9696-lgtm/Ai-Futures) A buisiness intelligence analysis of AI markets, exploring sector longevity, public/private sentiment outlooks, cultural behaviors, economies, and intersections with established industries.
+(W.I.P) [Ai Futures Report:](https://github.com/christophergillard9696-lgtm/Ai-Futures) A buisiness intelligence project looking into the nature for the majority uses of AI and their accompanying markets, exploring sector longevity, public/private sentiment outlook, cultural behaviors, economies, and intersections with established industries.
 
 [Automation Data Management & Exportation Workflows:](https://github.com/christophergillard9696-lgtm/Automation-Designs) Enhancing Python, SQL, and Power BI skills in cloud environments (Airflow, AWS & Azure) for scalable automated data gathering and standardization pipelines.
 
