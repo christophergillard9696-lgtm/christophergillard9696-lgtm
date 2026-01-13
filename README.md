@@ -10,7 +10,7 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 [Social Media Time & Tag Reach Analysis:](https://github.com/christophergillard9696-lgtm/Home-Brew-Social-Media-Market-Consumer-Insights-Experiment/blob/main/README.md) This project explores how data‑driven insights can shape a smarter content strategy for my own YouTube and TikTok channels, through post timings and tagging insights. 
 
-(W.I.P) Affiliate Analyst Sandbox Proj: Forefilling job requiresments through test models, structures and insights.
+(W.I.P) [Affiliate Analyst Sandbox Proj:](https://github.com/christophergillard9696-lgtm/Affiliate-Analyst-Sandbox-Proj) Forefilling job requiresments through test models, structures and insights.
 
 (W.I.P) [Ai Futures Report:](https://github.com/christophergillard9696-lgtm/Ai-Futures) A business intelligence project looking into the majority use cases of AI and their accompanying markets, exploring sector longevity, public/private sentiment outlook, cultural behaviors, investment economies, and intersections with established industries. (I have yet to source all the data to finish this project)
 
