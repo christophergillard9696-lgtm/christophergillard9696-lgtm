@@ -2,6 +2,7 @@
 Specializing in automation workflows, data analysis, data science, and visualization, I blend technical skills with human-centric insights and design. My background spans social sciences, market research, consumer insights reporting, accounts management, data collection and automation in data management workflows and distribution.
 
 
+
 # ✒️ What I'm Working On:
 
 [Tower United:](https://github.com/christophergillard9696-lgtm/Tower-United) A community management project using social research methods to gather & analyze player sentiment, player habits, and spending patterns. Leverages interview recordings and web content to gather actionable insights.
