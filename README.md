@@ -5,11 +5,11 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 # ✒️ What I'm Working On:
 
-(W.I.P) [Affiliate Analyst Sandbox Proj:](https://github.com/christophergillard9696-lgtm/Affiliate-Analyst-Sandbox-Proj) Forefilling job requiresments through test models, structures and insights.
-
 [Tower United:](https://github.com/christophergillard9696-lgtm/Tower-United) A community management project using social research methods to gather & analyze player sentiment, player habits, and spending patterns. Leverages interview recordings and web content to gather actionable insights.
 
 [Cause for Applause:](https://github.com/christophergillard9696-lgtm/Cause-For-Applause) A political science driven project mapping applause timing and sentiment. Includes statistical analysis of pauses and anticipation, sentiment probability timelines, and end-to-end ML Python deep Ai workflows.
+
+(W.I.P) [Affiliate Analyst Sandbox Proj:](https://github.com/christophergillard9696-lgtm/Affiliate-Analyst-Sandbox-Proj) Forefilling job requiresments through test models, structures and insights.
 
 (W.I.P) [Social Media Time & Tag Insights:](https://github.com/christophergillard9696-lgtm/Home-Brew-Social-Media-Market-Consumer-Insights-Experiment/blob/main/README.md) Through post timings and tags, this project explores how data‑driven insights can shape a smarter content strategy for my own homebrew YouTube and TikTok channels. 
 
