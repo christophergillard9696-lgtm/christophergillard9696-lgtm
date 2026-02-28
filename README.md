@@ -19,6 +19,6 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 
   # ⚙️ Tools I Use:
-I build Python tools for ETL pipelines, data validation & auditing tasks, web scraping, API integration, and sentiment analysis, using libraries like VADER, Pandas, BeautifulSoup, NLTK, PyAudio, and SQLAlchemy, utilising MySQL & SQLServer as needed for specific querying, gathering and clean up tasks. I host custom ELT pipelines on Airflow/AWS/Azure (currently learning python for heavy load ETL pipelines), delivering end products like written reports and Power BI dashboards with heavy DAX & measure usage, relational modeling, and conditional formatting as appropriate, data modeling inferred. I have a degree in Anthropology which informs a lot of my research methodology.      
+I build Python tools for ETL pipelines, data validation & auditing tasks, web scraping, API integration, and sentiment analysis, using libraries like VADER, Pandas, BeautifulSoup, NLTK, PyAudio, and SQLAlchemy, utilising MySQL & SQLServer as needed for specific querying, gathering and clean up tasks. I host custom ELT pipelines on Snowplow/Airflow/AWS/Azure (currently learning python for heavy load ETL pipelines), delivering end products like written reports and Power BI dashboards with heavy DAX & measure usage, relational modeling, and conditional formatting as appropriate, data modeling inferred. I have a degree in Anthropology which informs a lot of my research methodology.      
 <br>
 Ultimately my focuses are; Accessibility, Scalability, and Economic Affluency. 
