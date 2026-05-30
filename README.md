@@ -18,7 +18,7 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 # 🌑 App Development:
 
-[Weighty:](https://github.com/christophergillard9696-lgtm/Weighty/blob/main/README.md) A gym utility app that solves a specific, universally annoying problem: you enter the weights available to you and your target bar weight, and it calculates exactly which plates to load. Simple, functional, and built because the problem genuinely needed solving. Available on iOS and Android.
+[Weighty:](https://github.com/christophergillard9696-lgtm/Weighty/blob/main/README.md) A gym utility app created in kotlin that solves a specific, universally annoying problem: you enter the weights available to you and your target bar weight, and it calculates exactly which plates to load. Simple, functional, and built because the problem genuinely needed solving. Available on iOS and Android.
 
 
 
