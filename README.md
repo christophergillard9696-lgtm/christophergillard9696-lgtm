@@ -1,4 +1,5 @@
-# 📓 Computational Social Scientist & Python Developer
+# 📓 Creative Strategist & Analyst · I build things, study people, and turn data into decisions.
+
 Specializing in automation workflows, data analysis, data science, and visualization, I blend technical skills with human-centric insights and design. My background spans social sciences, market research, consumer insights reporting, accounts management, data collection and automation in data management workflows and distribution.
 
 
