@@ -5,7 +5,7 @@ Anthropologist with a Python habit. I study how people behave, ship apps that so
 
 # ✒️ What I'm Working On:
 
-(Current W.I.P) [Affiliate Audit:](https://github.com/christophergillard9696-lgtm/Affiliate-Analyst-Sandbox-Proj) An affiliate audit pipeline for validating data integrity, flagging discrepencies, and identifying emerging trends from our affiliate marketing agents. Routes alerts through to a live dashboard and email chains.
+(Current W.I.P) [Affiliate Audit:](https://github.com/christophergillard9696-lgtm/Affiliate-Analyst-Sandbox-Proj) An affiliate audit pipeline for validating data integrity, flagging discrepancies, and identifying emerging trends from our affiliate marketing agents. Routes alerts through to a live dashboard and email chains.
 
 
 # 🗄️ Finished Data Projects (SQL/PowerBi/Python)
