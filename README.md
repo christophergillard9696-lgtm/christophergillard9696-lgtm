@@ -14,7 +14,7 @@ Anthropologist with a Python habit. I study how people behave, ship apps that so
 
 [Cause for Applause:](https://github.com/christophergillard9696-lgtm/Cause-For-Applause) A political science driven project mapping applause timing and sentiment. Includes statistical analysis of pauses and anticipation, sentiment probability timelines, and end-to-end ML Python deep Ai workflows on identifying and analysing applause in its many forms. Preliminary book: [_Google Doc_](https://drive.google.com/file/d/1WprzuzIG0zpsIp3xx9LZvZayPuinK5pM/view)
 
-[Post Time & Tag Insights:](https://github.com/christophergillard9696-lgtm/Home-Brew-Social-Media-Market-Consumer-Insights-Experiment/blob/main/README.md) Through post timings and tags, this project explores how data‑driven insights can shape a smarter content strategy for my own homebrew YouTube and TikTok channels. Not just analysing audiences in theory, but running live experiments on these channels and iterating on that information to grow my content-to-commerce pipeline.
+[Post Time & Tag Insights:](https://github.com/christophergillard9696-lgtm/Home-Brew-Social-Media-Market-Consumer-Insights-Experiment/blob/main/README.md) Through post timings and tags, this project explores how data‑driven insights can shape a smarter content strategy for my own homebrew [YouTube](https://www.youtube.com/@MuntyStain) and [TikTok](https://www.tiktok.com/@muntystain). Not just analysing audiences in theory, but running live experiments on these channels and iterating on that information to grow my content-to-commerce pipeline.
 
 
 
