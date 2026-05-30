@@ -5,7 +5,7 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 # ✒️ What I'm Working On:
 
-(Current W.I.P) [Affiliate Audit:](https://github.com/christophergillard9696-lgtm/Affiliate-Analyst-Sandbox-Proj) An affiliate audit pipeline for validating data integrity, flagging discrepencies, and identifying emerging trends from our affiliate marketing agents. Routes alerts through to a live dashboard and email chai
+(Current W.I.P) [Affiliate Audit:](https://github.com/christophergillard9696-lgtm/Affiliate-Analyst-Sandbox-Proj) An affiliate audit pipeline for validating data integrity, flagging discrepencies, and identifying emerging trends from our affiliate marketing agents. Routes alerts through to a live dashboard and email chains.
 
 [Tower United:](https://github.com/christophergillard9696-lgtm/Tower-United) A community management project using social metrics and sentiment analysis analyze to understand community, desires, habits, and spending patterns, along side the cultural spread of identities. Leverages interview recordings and web content to gather actionable insights.
 
