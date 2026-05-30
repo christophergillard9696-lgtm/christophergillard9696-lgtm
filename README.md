@@ -16,13 +16,13 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 
 
-App Development:
+# 🌑 App Development:
 
 [Weighty:](https://github.com/christophergillard9696-lgtm/Weighty/blob/main/README.md) A simple Barbell calculator app to save your brain the trouble when you're visiting the gym early in the morning.
 
 
 
-Other ideas:
+# 🌂 Other ideas:
 
 (W.I.P) [Ai Futures Report:](https://github.com/christophergillard9696-lgtm/Ai-Futures) A business intelligence project looking into the majority use cases of AI and their accompanying markets, exploring sector longevity, public/private sentiment outlook, cultural behaviors, investment economies, and intersections with established industries.
 
