@@ -1,7 +1,6 @@
 # 📓 Data Analyst & Independent Builder
 
-Audience research, automation pipelines, and apps that solve real problems.
-
+Anthropologist with a Python habit. I study how people behave, ship apps that solve real problems, and publish research that actually means something.
 
 
 # ✒️ What I'm Working On:
