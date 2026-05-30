@@ -1,6 +1,6 @@
-# 📓 Creative Strategist & Analyst · I build things, study people, and turn data into decisions.
+# 📓 Data Analyst & Independent Builder
 
-Specializing in automation workflows, data analysis, data science, and visualization, I blend technical skills with human-centric insights and design. My background spans social sciences, market research, consumer insights reporting, accounts management, data collection and automation in data management workflows and distribution.
+Audience research, automation pipelines, and apps that solve real problems.
 
 
 
