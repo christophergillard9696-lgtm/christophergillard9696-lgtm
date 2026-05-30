@@ -7,6 +7,9 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 (Current W.I.P) [Affiliate Audit:](https://github.com/christophergillard9696-lgtm/Affiliate-Analyst-Sandbox-Proj) An affiliate audit pipeline for validating data integrity, flagging discrepencies, and identifying emerging trends from our affiliate marketing agents. Routes alerts through to a live dashboard and email chains.
 
+
+# 🗄️ Finished Data Projects
+
 [Tower United:](https://github.com/christophergillard9696-lgtm/Tower-United) A community management project using social metrics and sentiment analysis analyze to understand community, desires, habits, and spending patterns, along side the cultural spread of identities. Leverages interview recordings and web content to gather actionable insights.
 
 [Cause for Applause:](https://github.com/christophergillard9696-lgtm/Cause-For-Applause) A political science driven project mapping applause timing and sentiment. Includes statistical analysis of pauses and anticipation, sentiment probability timelines, and end-to-end ML Python deep Ai workflows on identifying and analysing applause in its many forms.
@@ -23,7 +26,7 @@ Specializing in automation workflows, data analysis, data science, and visualiza
 
 
 
-# 🔮 Upcoming Ideas:
+# 🔮 Upcoming Data Projects:
 
 (W.I.P) [Ai Futures Report:](https://github.com/christophergillard9696-lgtm/Ai-Futures) A business intelligence project looking into the majority use cases of AI and their accompanying markets, exploring sector longevity, public/private sentiment outlook, cultural behaviors, investment economies, and intersections with established industries.
 
