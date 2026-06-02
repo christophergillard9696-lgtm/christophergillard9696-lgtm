@@ -30,7 +30,7 @@ Anthropologist with a Python habit. I study how people behave, ship apps that so
 
 (W.I.P) [Ai Futures Report:](https://github.com/christophergillard9696-lgtm/Ai-Futures) A business intelligence project looking into the majority use cases of AI and their accompanying markets, exploring sector longevity, public/private sentiment outlook, cultural behaviors, investment economies, and intersections with established industries.
 
-(W.I.P) [Torquay Regional Consumer Insights Report:]( ) A regional insights dashboard revealing how consumers think, choose, and behave across every market segment present within the TQ area.
+(W.I.P) [Devonshire Consumer Insights:](https://github.com/christophergillard9696-lgtm/Devonshire-Consumer-Insights) A regional insights dashboard revealing how consumers think, choose, and behave across every market segment present within the TQ area.
 
 
 (W.I.P) [Automated Data Management & Exportation Workflows:](https://github.com/christophergillard9696-lgtm/Automation-Design) A short written piece and flow chart on enhancing Python, SQL, and Power BI skills in cloud environments (Airflow, AWS & Azure) for scalable, secured automated data gathering and conditional ELT & ETL pipelines.
