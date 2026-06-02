@@ -8,7 +8,7 @@ Anthropologist with a Python habit. I study how people behave, ship apps that so
 (Current W.I.P) [Affiliate Audit:](https://github.com/christophergillard9696-lgtm/Affiliate-Analyst-Sandbox-Proj) An affiliate audit pipeline for validating data integrity, flagging discrepancies, and identifying emerging trends from our affiliate marketing agents. Routes alerts through to a live dashboard and email chains.
 
 
-# 🗄️ Finished Data Projects (SQL/PowerBi/Python)
+# 🗄️ Finished Projects (SQL/PowerBi/Python)
 
 [Tower United:](https://github.com/christophergillard9696-lgtm/Tower-United) A community management project using social metrics and sentiment analysis analyze to understand community, desires, habits, and spending patterns, along side the cultural spread of identities. Leverages interview recordings and web content to gather actionable insights. Tied into a full-length [_ethnographic study_](https://drive.google.com/file/d/1PDKh5tmi5FOEBY4Bv3s8Kn6H1jre0I-1/view).
 
