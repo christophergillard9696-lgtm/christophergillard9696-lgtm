@@ -10,6 +10,8 @@ Anthropologist with a Python habit. I study how people behave, ship apps that so
 
 # 🗄️ Finished Projects (SQL/PowerBi/Python)
 
+[The Marketing Packets Repo:](ReadMe) A collection of market insight packets I've designed and distributed, technical ETL and QA stacks included.
+
 [Tower United:](https://github.com/christophergillard9696-lgtm/Tower-United) A community management insights project using social metrics and sentiment analysis analyze to understand community, desires, habits, and spending patterns, along side the cultural spread of identities. Leverages interview recordings and web content to gather actionable insights. Tied into a full-length [ social study "Tower United". ](https://docs.google.com/document/d/12zKqxf-fsRYKVSlxRVNhlLJUdCHiJFq1Hb8KRi4auPc/edit?usp=sharing).
 
 [Cause for Applause:](https://github.com/christophergillard9696-lgtm/Cause-For-Applause) A political science driven project mapping applause timing and sentiment. Includes statistical analysis of pauses and anticipation, sentiment probability timelines, and end-to-end ML Python deep Ai workflows on identifying and analysing applause in its many forms. Tied into a mixed-methods [_monograph "Cause for Applause"_](https://docs.google.com/document/d/1ZgNtjM4Wx6BQji7QwmUCtEcjC8fQ2UQcNzPK-itq_G8/edit?usp=sharing).
