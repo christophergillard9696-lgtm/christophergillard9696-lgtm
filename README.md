@@ -1,6 +1,6 @@
 # 📓 Data Analyst & Independent Builder
 
-Anthropologist with a Python habit. I study how people behave, ship apps that solve real problems, and publish research that actually means something.
+Anthropologist with a Python habit. I study how people behave, ship apps that solve real problems, and publish research that helps businesses meet their bottom line.
 
 
 # ✒️ What I'm Working On:
