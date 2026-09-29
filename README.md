@@ -10,7 +10,7 @@ Anthropologist with a python habit. I study how people behave, ship apps that so
 
 # 🗄️ Finished Projects (SQL/PowerBi/Python)
 
-[The Marketing Packets Repo:]([ReadMe](https://github.com/christophergillard9696-lgtm/Marketing-Packets/blob/main/README.md)) A collection of market insight packets I've designed and distributed, technical ETL and QA stacks included.
+[The Marketing Packets Repo:](https://github.com/christophergillard9696-lgtm/Marketing-Packets/blob/main/README.md) A collection of market insight packets I've designed and distributed, technical ETL and QA stacks included.
 
 [Tower United:](https://github.com/christophergillard9696-lgtm/Tower-United) A community management insights project using social metrics and sentiment analysis analyze to understand community, desires, habits, and spending patterns, along side the cultural spread of identities. Leverages interview recordings and web content to gather actionable insights. Tied into a full-length [ social study "Tower United". ](https://docs.google.com/document/d/12zKqxf-fsRYKVSlxRVNhlLJUdCHiJFq1Hb8KRi4auPc/edit?usp=sharing).
 
