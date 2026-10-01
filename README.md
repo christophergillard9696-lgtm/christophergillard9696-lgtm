@@ -1,8 +1,3 @@
-# 📓 Data Analyst & Independent Builder
-
-Social Researcher with big data skills.
-
-
 # ✒️ What I'm Working On:
 
 (Current W.I.P) [Affiliate Audit:](https://github.com/christophergillard9696-lgtm/Affiliate-Analyst-Sandbox-Proj) An affiliate audit pipeline for validating data integrity, flagging discrepancies, and identifying emerging trends from our affiliate marketing agents. Routes alerts through to a live dashboard and email chains.
