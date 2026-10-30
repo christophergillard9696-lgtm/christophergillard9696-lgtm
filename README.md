@@ -4,7 +4,7 @@
 
 (WIP) [The Marketing Packets Repo:](https://github.com/christophergillard9696-lgtm/Marketing-Packets/blob/main/README.md) A collection of market insight packets I've designed and distributed, technical ETL and QA stacks included.
 
-
+[Post Time & Tag Insights:](https://github.com/christophergillard9696-lgtm/Home-Brew-Social-Media-Market-Consumer-Insights-Experiment/blob/main/README.md) Through post timings and tags, this project explores how data‑driven insights can shape a smarter content strategy for my own homebrew [YouTubeCreative](https://www.youtube.com/@MuntyStain) [YoutubeClipping](https://www.youtube.com/channel/UCdKbfmyxgUJJHjlMLi68kWA) and [TikTok](https://www.tiktok.com/@muntystain). Not just analysing audiences in theory, but running live experiments on these channels and iterating on that information to grow my content-to-commerce pipeline.
 
 # 🗄️ Finished Projects (SQL/PowerBi/Python)
 
@@ -12,7 +12,7 @@
 
 [Cause for Applause:](https://github.com/christophergillard9696-lgtm/Cause-For-Applause) A political science driven project mapping applause timing and sentiment. Includes statistical analysis of pauses and anticipation, sentiment probability timelines, and end-to-end ML Python deep Ai workflows on identifying and analysing applause in its many forms. Tied into a mixed-methods [_monograph "Cause for Applause"_](https://docs.google.com/document/d/1ZgNtjM4Wx6BQji7QwmUCtEcjC8fQ2UQcNzPK-itq_G8/edit?usp=sharing).
 
-[Post Time & Tag Insights:](https://github.com/christophergillard9696-lgtm/Home-Brew-Social-Media-Market-Consumer-Insights-Experiment/blob/main/README.md) Through post timings and tags, this project explores how data‑driven insights can shape a smarter content strategy for my own homebrew [YouTube](https://www.youtube.com/@MuntyStain) and [TikTok](https://www.tiktok.com/@muntystain). Not just analysing audiences in theory, but running live experiments on these channels and iterating on that information to grow my content-to-commerce pipeline.
+
 
 
 
