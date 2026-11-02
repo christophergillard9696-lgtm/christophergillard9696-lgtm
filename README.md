@@ -1,10 +1,12 @@
 # ✒️ What I'm Working On:
 
-(Current W.I.P) [Post Time & Tag Insights:](https://github.com/christophergillard9696-lgtm/Home-Brew-Social-Media-Market-Consumer-Insights-Experiment/blob/main/README.md) Through post timings and tags, this project explores how data‑driven insights can shape a smarter content strategy for my own homebrew [YouTubeCreative](https://www.youtube.com/@MuntyStain) [YoutubeClipping](https://www.youtube.com/channel/UCdKbfmyxgUJJHjlMLi68kWA) and [TikTok](https://www.tiktok.com/@muntystain). Not just analysing audiences in theory, but running live experiments on these channels and iterating on that information to grow my content-to-commerce pipeline.
+(Current W.I.P) [The Marketing Packets Repo:](https://github.com/christophergillard9696-lgtm/Marketing-Packets/blob/main/README.md) A collection of market insight packets I've designed and distributed, technical ETL and QA stacks included.
+
+
+(W.I.P) [Post Time & Tag Insights:](https://github.com/christophergillard9696-lgtm/Home-Brew-Social-Media-Market-Consumer-Insights-Experiment/blob/main/README.md) Through post timings and tags, this project explores how data‑driven insights can shape a smarter content strategy for my own homebrew [YouTubeCreative](https://www.youtube.com/@MuntyStain) [YoutubeClipping](https://www.youtube.com/channel/UCdKbfmyxgUJJHjlMLi68kWA) and [TikTok](https://www.tiktok.com/@muntystain). Not just analysing audiences in theory, but running live experiments on these channels and iterating on that information to grow my content-to-commerce pipeline.
 
 (W.I.P) [Affiliate Audit:](https://github.com/christophergillard9696-lgtm/Affiliate-Analyst-Sandbox-Proj) An affiliate audit pipeline for validating data integrity, flagging discrepancies, and identifying emerging trends from our affiliate marketing agents. Routes alerts through to a live dashboard and email chains.
 
-(W.I.P) [The Marketing Packets Repo:](https://github.com/christophergillard9696-lgtm/Marketing-Packets/blob/main/README.md) A collection of market insight packets I've designed and distributed, technical ETL and QA stacks included.
 
 # 🗄️ Finished Projects (SQL/PowerBi/Python)
 
